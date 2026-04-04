@@ -11,6 +11,7 @@
             flex-direction: column;
             padding-top: 100px;
             align-items: center;
+            justify-content: centre;
             gap: 35px;
             background-color: grey;
             background: linear-gradient(135deg, #f0f4f8, #c8e0f0);
