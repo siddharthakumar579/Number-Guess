@@ -8,7 +8,6 @@ let randomNumber= parseInt(Math.random()*100 + 1);
        let start= document.querySelector('#resultPara');
        const nGame = document.querySelector('#newGame');
 
-    //    const p= document.createElement('p');
 
        let prevGuess= [];
        let numGuess= 1;
