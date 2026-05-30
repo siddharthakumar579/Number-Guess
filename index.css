@@ -131,7 +131,6 @@
         cursor: pointer;
         transition: background-color 0.3s;
     }
-
     #newGame:hover {
         background-color: #004d40;
     }
