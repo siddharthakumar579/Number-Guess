@@ -1,5 +1,5 @@
 let randomNumber= parseInt(Math.random()*100 + 1);
-        
+
        const inputNumber= document.querySelector('#inputNumber');
        const submitButton= document.querySelector('#submit');
        const lastGuess= document.querySelector('#last_Guess');
